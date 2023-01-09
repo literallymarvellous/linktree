@@ -1,0 +1,25 @@
+{
+  "name": "Ike Ahiara",
+  "avatar": "https://pbs.twimg.com/profile_images/1606668481704894464/R75euFAc_400x400.jpg",
+  "links": [
+    {
+      "title": "My personal site",
+      "href": "https://marvel.com",
+      "image": "https://pbs.twimg.com/profile_images/1606668481704894464/R75euFAc_400x400.jpg"
+    },
+    {
+      "title": "Vercel",
+      "href": "https://vercel.com"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/literallymarvel"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/literallymarvellous"
+    }
+  ]
+}
